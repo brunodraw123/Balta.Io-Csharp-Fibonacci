@@ -1,0 +1,16 @@
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\bin\Debug\net5.0\_Fibonacci.exe
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\bin\Debug\net5.0\_Fibonacci.deps.json
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\bin\Debug\net5.0\_Fibonacci.runtimeconfig.json
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\bin\Debug\net5.0\_Fibonacci.runtimeconfig.dev.json
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\bin\Debug\net5.0\_Fibonacci.dll
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\bin\Debug\net5.0\ref\_Fibonacci.dll
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\bin\Debug\net5.0\_Fibonacci.pdb
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\obj\Debug\net5.0\_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\obj\Debug\net5.0\_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\obj\Debug\net5.0\_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\obj\Debug\net5.0\_Fibonacci.AssemblyInfo.cs
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\obj\Debug\net5.0\_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\obj\Debug\net5.0\_Fibonacci.dll
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\obj\Debug\net5.0\ref\_Fibonacci.dll
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\obj\Debug\net5.0\_Fibonacci.pdb
+C:\Users\Tatiane\Desktop\p.github\_Fibonacci\obj\Debug\net5.0\_Fibonacci.genruntimeconfig.cache
